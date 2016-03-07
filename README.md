@@ -1,2 +1,2 @@
-# Teambook
-This is my team's data, make programming notes or other things
+# 内容介绍
+这里有对团队能开发的规范，工作总结，还有新技术推荐
